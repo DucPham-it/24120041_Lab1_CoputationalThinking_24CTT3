@@ -152,4 +152,4 @@ He thong co kiem tra du lieu dau vao o muc co ban:
 - Can co ket noi Internet de tai model neu may chua co cache san.
 
 ## Video demo
-![Watch video](https://youtu.be/hD8vQYVGnXU)
+[▶ Watch Demo](https://youtu.be/hD8vQYVGnXU)
